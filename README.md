@@ -1,2 +1,2 @@
 # ACI-Blocklist
-A blocklist for problematic ACIs
+A blocklist of problematic Signal ACIs
